@@ -11,6 +11,7 @@ public abstract class BasePessoa {
     protected String usuario;
     protected String senha;
     protected String registro;
+    
     public int getCodigo() {
         return codigo;
     }

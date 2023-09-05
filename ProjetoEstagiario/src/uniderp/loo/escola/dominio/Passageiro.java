@@ -6,6 +6,7 @@ public class Passageiro extends BasePessoa {
 
     private String numeroCartao;
     private String documento;
+    
     public String getNumeroCartao() {
         return numeroCartao;
     }
